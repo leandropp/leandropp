@@ -1,6 +1,5 @@
 ### Hi, I'm Leandro Paixão. 👋
 
-- I'm currently working on **[Objective Solutions](https://www.objective.com.br//).**
 - I'm currently deepening my studies in Javascript and all frontend universe.
 - I'm use everyday ReactJS, TypeScript and StyledComponents.
  
